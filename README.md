@@ -15,3 +15,4 @@ Ejecutando todas las pruebas se tiene que:
   <img src="https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/736fb57f-d4ae-49ab-84a7-68d476876484" width="650" />
 </p>
 
+Todas las pruebas fueron exitosas.
