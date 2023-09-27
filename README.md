@@ -1,5 +1,5 @@
 # Fundamentos-Ruby
-
+Ejecutando todas las pruebas se tiene que:
 ## Parte 1
 ![image](https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/bae9ff65-cebf-44e1-bf5b-52d63e1b6253)
 
