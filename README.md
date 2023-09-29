@@ -2,7 +2,7 @@
 Ejecutando todas las pruebas se tiene que:
 ## Parte 1
 <p align="center">
-  <img src="screenshots/Parte1.png" />
+  <img src="screenshots/parte1.png" />
 </p>
 
 
