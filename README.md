@@ -1,18 +1,15 @@
 # Fundamentos-Ruby
 Ejecutando todas las pruebas se tiene que:
 ## Parte 1
-<p align="center">
-  <img src="https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/bae9ff65-cebf-44e1-bf5b-52d63e1b6253" width="650" />
-</p>
+![image](https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/8289ef02-85d2-4a21-969c-7b2f11a1e8be)
+
 
 ## Parte 2
-<p align="center">
-  <img src="https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/1ab0febc-b6bc-4cd9-8808-b08858008535" width="650" />
-</p>
+![image](https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/3f458fd8-9b44-47fa-804b-bc7f10c6101c)
+
 
 ## Parte 3
-<p align="center">
-  <img src="https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/736fb57f-d4ae-49ab-84a7-68d476876484" width="650" />
-</p>
+![image](https://github.com/Daniel349167/Fundamentos-Ruby/assets/62466867/3f43c83d-b696-42c6-8ed8-8754611fa46f)
+
 
 Todas las pruebas fueron exitosas.
